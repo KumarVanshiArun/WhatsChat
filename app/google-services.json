@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498445491333",
+    "project_id": "whats-chat-bb3f3",
+    "storage_bucket": "whats-chat-bb3f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498445491333:android:3d078c365f9610dc089dec",
+        "android_client_info": {
+          "package_name": "com.kumar.whatschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498445491333-tn0c5hpsf6o9q9pnut2odbla3r2lg9ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnSBDqPwU84qdZ5FmR-EHf6jXHM6LnZaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498445491333-tn0c5hpsf6o9q9pnut2odbla3r2lg9ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
